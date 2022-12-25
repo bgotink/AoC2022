@@ -1,0 +1,24 @@
+[package]
+name = "main"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "19-01"
+path = "19/01/program.rs"
+
+[[bin]]
+name = "19-02"
+path = "19/02/program.rs"
+
+[[bin]]
+name = "24-01"
+path = "24/01/program.rs"
+
+[[bin]]
+name = "24-02"
+path = "24/02/program.rs"
